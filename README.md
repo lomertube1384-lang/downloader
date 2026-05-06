@@ -79,6 +79,8 @@ https://github.com/nikzad-avasam/youtube-dl
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [106774](https://github.com/lomertube1384-lang/downloader/tree/main/downloads/106774)
@@ -91,6 +93,8 @@ https://github.com/nikzad-avasam/youtube-dl
 
 5. [44304_480p](https://github.com/lomertube1384-lang/downloader/tree/main/downloads/44304_480p)
 
-6. [_gamma](https://github.com/lomertube1384-lang/downloader/tree/main/downloads/_gamma)
+6. [45525_480p](https://github.com/lomertube1384-lang/downloader/tree/main/downloads/45525_480p)
+
+7. [_gamma](https://github.com/lomertube1384-lang/downloader/tree/main/downloads/_gamma)
 
 ---
