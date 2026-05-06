@@ -97,6 +97,8 @@ https://github.com/nikzad-avasam/youtube-dl
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [36310_720p](https://github.com/lomertube1384-lang/downloader/tree/main/downloads/36310_720p)
@@ -112,5 +114,7 @@ https://github.com/nikzad-avasam/youtube-dl
 6. [46415_480p](https://github.com/lomertube1384-lang/downloader/tree/main/downloads/46415_480p)
 
 7. [46825_480p](https://github.com/lomertube1384-lang/downloader/tree/main/downloads/46825_480p)
+
+8. [Avatar.The.Last.Airbender.S01E01.1080p.BluRay.x265.MRN.Farsi.Dubbed.%5BRubixFa%5D](https://github.com/lomertube1384-lang/downloader/tree/main/downloads/Avatar.The.Last.Airbender.S01E01.1080p.BluRay.x265.MRN.Farsi.Dubbed.%5BRubixFa%5D)
 
 ---
