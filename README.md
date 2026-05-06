@@ -83,22 +83,10 @@ https://github.com/nikzad-avasam/youtube-dl
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [106774](https://github.com/lomertube1384-lang/downloader/tree/main/downloads/106774)
-
-2. [108176](https://github.com/lomertube1384-lang/downloader/tree/main/downloads/108176)
-
-3. [108177](https://github.com/lomertube1384-lang/downloader/tree/main/downloads/108177)
-
-4. [43994_480p](https://github.com/lomertube1384-lang/downloader/tree/main/downloads/43994_480p)
-
-5. [44304_480p](https://github.com/lomertube1384-lang/downloader/tree/main/downloads/44304_480p)
-
-6. [45525_480p](https://github.com/lomertube1384-lang/downloader/tree/main/downloads/45525_480p)
-
-7. [45974_480p](https://github.com/lomertube1384-lang/downloader/tree/main/downloads/45974_480p)
-
-8. [_gamma](https://github.com/lomertube1384-lang/downloader/tree/main/downloads/_gamma)
+1. [45021_480p](https://github.com/lomertube1384-lang/downloader/tree/main/downloads/45021_480p)
 
 ---
