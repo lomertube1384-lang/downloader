@@ -147,10 +147,14 @@ https://github.com/nikzad-avasam/youtube-dl
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [Happ](https://github.com/lomertube1384-lang/downloader/tree/main/downloads/Happ)
 
 2. [_beta](https://github.com/lomertube1384-lang/downloader/tree/main/downloads/_beta)
+
+3. [_cloud](https://github.com/lomertube1384-lang/downloader/tree/main/downloads/_cloud)
 
 ---

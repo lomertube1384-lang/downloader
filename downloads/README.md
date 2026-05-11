@@ -2,6 +2,7 @@
 
 - [Happ](./Happ)
 - [_beta](./_beta)
+- [_cloud](./_cloud)
 
 ---
 
